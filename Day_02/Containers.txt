@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE     COMMAND          CREATED          STATUS                      PORTS     NAMES
+0c764c195ff7   new_py    "python ok.py"   12 minutes ago   Exited (0) 12 minutes ago             friendly_buck
+cb25d110a5a2   new_py    "."              13 minutes ago   Created                               optimistic_villani
+15ce761126d4   new_py    "python ok.py"   13 minutes ago   Exited (1) 13 minutes ago             quirky_boyd

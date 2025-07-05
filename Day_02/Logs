@@ -1,0 +1,33 @@
+
+------ Student Grades Manager ------
+
+1. Add Student
+2. View All Students
+3. Update Marks
+4. Delete Student
+5. Exit
+
+Enter Your Choice: 1
+Enter Student Name: Krishna
+Enter Marks: 95
+
+------ Student Grades Manager ------
+
+1. Add Student
+2. View All Students
+3. Update Marks
+4. Delete Student
+5. Exit
+
+Enter Your Choice: 2
+Krishna: 95
+
+------ Student Grades Manager ------
+
+1. Add Student
+2. View All Students
+3. Update Marks
+4. Delete Student
+5. Exit
+
+Enter Your Choice: 5
