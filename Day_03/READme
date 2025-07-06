@@ -1,0 +1,34 @@
+# Day 03 - Docker Flask App 
+
+This is my third day learning Docker.  
+In this project, I created a simple Flask app with two routes and ran it inside a Docker container.
+
+
+## What I Did
+
+- Wrote a Python Flask app with `/` and `/hello` routes
+- Created a `Dockerfile` to build a custom image
+- Used `requirements.txt` to install Flask inside the container
+- Exposed port 5000 to access the app in 
+
+
+## Access the App
+
+Since I’m running this in a VirtualBox VM, I used the VM IP (from `ip a`) to open in browser:
+- http://<vm-ip>:5000/
+- http://<vm-ip>:5000/hello
+
+It worked perfectly after setting `host='0.0.0.0'` in the Flask app.
+
+
+## What I Learned
+
+- How to use `requirements.txt` in Docker
+- How to expose and map ports correctly
+- Difference between `docker run` in foreground and detached mode
+- Why `host='0.0.0.0'` is important inside Docker
+
+
+
+
+

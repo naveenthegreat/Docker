@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE            COMMAND           CREATED             STATUS             PORTS                                       NAMES
+eb1a494afc8d   day3-flask-app   "python app.py"   About an hour ago   Up About an hour   0.0.0.0:5000->5000/tcp, :::5000->5000/tcp   flask-day3
