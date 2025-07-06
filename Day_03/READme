@@ -17,7 +17,6 @@ In this project, I created a simple Flask app with two routes and ran it inside 
 Since I’m running this in a VirtualBox VM, I used the VM IP (from `ip a`) to open in browser:
 - http://<vm-ip>:5000/
 - http://<vm-ip>:5000/hello
-
 It worked perfectly after setting `host='0.0.0.0'` in the Flask app.
 
 
